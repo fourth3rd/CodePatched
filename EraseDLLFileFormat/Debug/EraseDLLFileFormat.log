@@ -1,0 +1,4 @@
+﻿  sw.cpp
+C:\Users\정찬호\source\repos\EraseDLLFileFormat\EraseDLLFileFormat\sw.cpp(33,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\정찬호\source\repos\EraseDLLFileFormat\EraseDLLFileFormat\sw.cpp(166,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  EraseDLLFileFormat.vcxproj -> C:\Users\정찬호\source\repos\EraseDLLFileFormat\Debug\EraseDLLFileFormat.exe
